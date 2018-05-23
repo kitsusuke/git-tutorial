@@ -1,3 +1,4 @@
 # Gitチュートリアル
 
-- fuature-A
+- feature-A
+- fix-B
